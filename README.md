@@ -1,3 +1,3 @@
-# thisju project
+# thejuen project
 
 in progress
