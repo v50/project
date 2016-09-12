@@ -1,2 +1,2 @@
 # `v50` Project
-in progress
+The Ascii Art Project (in progress)
